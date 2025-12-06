@@ -12,6 +12,6 @@ python-dotenv==1.1.0
 s3transfer==0.10.4
 setuptools==80.8.0
 six==1.17.0
-urllib3==2.4.0
+urllib3==2.6.0
 xlsxwriter==3.2.0
 zstandard==0.23.0
